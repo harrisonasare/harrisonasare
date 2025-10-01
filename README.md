@@ -30,9 +30,9 @@
 
 ## 📌 Featured Projects
 
-- 🎨 **Portfolio Website** – *(in progress)*  
-- 📱 **Responsive Landing Page** – [Live Demo](https://your-demo-link.com) | [Repo](https://github.com/harrisonasare/landing-page)  
-- 📊 **Data Dashboard (Coming soon)**  
+- 🎨 **Portfolio Website** – *(comming soon)*  
+- 📱 **Responsive Landing Page** – *(comming soon)*  
+- 📊 **Data Dashboard** - *(comming soon)*    
 
 
 ---
